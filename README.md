@@ -26,7 +26,7 @@ Este código é um aplicativo de interface gráfica desenvolvido com CustomTkint
 
 A aplicação funciona permitindo que o usuário insira a URL de uma playlist do YouTube, selecione uma pasta de destino, e então inicie o processo de download e conversão dos vídeos da playlist para arquivos MP3. Durante o processo, a interface é atualizada para mostrar o progresso e o status dos downloads.
 
-#Instalações necessárias
+### Instalações necessárias
 O melhor a ser feito é usar o terminal do seu editar para criar um novo ambiente virtual, caso seu editor não crie um ambiente virtual python de forma automática
 
 ``` cmd
